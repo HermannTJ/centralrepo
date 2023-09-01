@@ -1,3 +1,8 @@
 first line from cali (Sai)
 second line from cali (Sai)
+<<<<<<< HEAD
 third line from nova (Hari)
+=======
+Third line from nova (Hari)
+fourth line from cali(Sai)
+>>>>>>> b40516d (fourth commit)
